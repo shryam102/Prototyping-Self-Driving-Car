@@ -35,5 +35,5 @@ This GitHub repository contains the source code and documentation for a self-dri
 
 ## Videos 
 ### Without PID
-![Without_PID_GIF](https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/4462d4ac-646f-4fd7-b091-9cd7b7c38500)
+![Without_PID_GIF](https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/4462d4ac-646f-4fd7-b091-9cd7b7c38500.mp4)
 
