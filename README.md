@@ -1,7 +1,7 @@
 
 # Prototyping-Self-Driving-Car
 ## Overview
-This GitHub repository contains the source code and documentation for a self-driving car prototype built on a big ride-on electric car. The project utilizes a Servo motor with gears to control the steering mechanism, and the car is powered and controlled using an Arduino Uno. The car can be operated manually or automatically, with a switch to transition between modes. The automatic mode allows the car to maintain its straight-forward motion by correcting deviations using the steering with the help of a simple PD controller.
+This GitHub repository contains the source code and documentation for a self-driving car prototype built on a big ride-on electric car. The project utilizes a Servo motor with gears to control the steering mechanism, and the car is powered and controlled using an Arduino Uno. The car can be operated manually or automatically, with a switch to transition between modes. The automatic mode allows the car to maintain its straight-forward motion by correcting deviations using the steering with the help of a simple PD(Proportional and Derivative) controller.
 
 ![image](https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/5bc98567-3286-4de8-bf6f-06edbda50caf)
 
@@ -34,5 +34,10 @@ This GitHub repository contains the source code and documentation for a self-dri
 <img src="https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/ed2b2f2a-796b-4f25-aa02-63033eeb80e7.png" width = "400" height = "300">
 
 ## Videos 
-### Without PID
+### Without PD Controller
 ![without_pid](https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/0e6a1179-d070-421c-82cc-9705ac32c2c5)
+
+
+### With PD Controller
+![with pid](https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/67026c14-98a7-4111-9210-72c878c980c2)
+
