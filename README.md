@@ -19,6 +19,6 @@ This GitHub repository contains the source code and documentation for a self-dri
 * RF Module (nRF24L01)
 
 ## Circuit 
-<img src="https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/966a2d22-f986-4b70-a8bc-2e14429fa78b.png" width="800" height="450">
+<img src="https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/966a2d22-f986-4b70-a8bc-2e14429fa78b.png" width="400" height="200">
 
 
