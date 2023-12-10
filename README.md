@@ -3,7 +3,9 @@
 ## Overview
 This GitHub repository contains the source code and documentation for a self-driving car prototype built on a big ride-on electric car. The project utilizes a Servo motor with gears to control the steering mechanism, and the car is powered and controlled using an Arduino Uno. The car can be operated manually or automatically, with a switch to transition between modes. The automatic mode allows the car to maintain its straight-forward motion by correcting deviations using the steering with the help of a simple PD(Proportional and Derivative) controller.
 
-![image](https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/5bc98567-3286-4de8-bf6f-06edbda50caf)
+<p align="center">
+  <img width = "230" height = "300" src="https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/5bc98567-3286-4de8-bf6f-06edbda50caf">
+</p>
 
 ## Features
 * **Manual and Automatic Modes**: The car can be controlled manually or switched to automatic mode.
