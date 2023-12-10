@@ -33,6 +33,16 @@ This GitHub repository contains the source code and documentation for a self-dri
 
 <img src="https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/ed2b2f2a-796b-4f25-aa02-63033eeb80e7.png" width = "400" height = "300">
 
+## Commands 
+* A = Automatic
+* M = Manual
+* F = Forward
+* B = Backward
+* L = Left
+* R = Right
+* S = Stop
+* C = Center
+* 
 ## Videos 
 ### Without PD Controller
 ![without_pid](https://github.com/shryam102/Prototyping-Self-Driving-Car/assets/78613519/0e6a1179-d070-421c-82cc-9705ac32c2c5)
